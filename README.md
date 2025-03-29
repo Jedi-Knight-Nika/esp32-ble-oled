@@ -2,8 +2,6 @@
 
 Display text on an OLED screen via Bluetooth with LED status indicators.
 
-## Running the Project
-
 ### Build and Upload
 
 ```bash
